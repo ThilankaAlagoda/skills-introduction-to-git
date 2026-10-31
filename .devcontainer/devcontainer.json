@@ -11,7 +11,11 @@
           "**/.codespaces": true,
           "**/exercise-monitor.log": true,
           // This variable is not dynamic. It is replaced by workflow 0-start-exercise.yml
+<<<<<<< HEAD
           "**/${RepoName}": true
+=======
+          "**/skills-introduction-to-git": true
+>>>>>>> 29585c439af5e3d5cbc5559b1beca2d7d0f9f977
         },
 
         // Don't compact folders, so structure is more obvious
